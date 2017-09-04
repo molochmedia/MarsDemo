@@ -1,0 +1,15 @@
+<main entries> Items; Topics
+
+#Items
+<Name> Items
+<subentries> Breakfast
+<end entry>
+#Breakfast
+<Name> Breakfast
+<text>
+It's breakfast
+<end entry>
+#Topics
+<Name> Topics
+<end entry>
+...

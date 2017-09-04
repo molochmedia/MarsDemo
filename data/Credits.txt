@@ -1,0 +1,37 @@
+<block:-1,-6,255,255,600,center>
+\oc[6]\fbDESIGN\fr
+\fiMatt Sanderson\fr
+ 
+\oc[6]\fbGRAPHICS\fr
+\fiJason Perry\fr: Old School Modern, Fall Tiles and Time Fantasy
+\fiVexed Enigma\fr: Pop! Horror City
+\fiRPG Maker DS+\fr
+\fiLunarea\fr: Modern Shop
+\fiMatt Beer\fr: Additional tiles and editing
+\fiPyromantic\fr: Cover art
+
+\oc[6]\fbSCRIPTS\fr
+\fiTerrax\fr: TerraxLighting
+\fiZalerian, Ramiro, Hudell, Dekita\fr: MVCommons 
+\fiTor Damian Design / Galenmereth\fr: TDDP PreloadManager, 
+FluidTimestep
+\fiorlando\fr: WebAudioCache, AdvancedMenus
+\fiShaz\fr: ChangeTileSize, MV Smart Path
+\fiDekita (www.dekyde.com)\fr: DMV Core, DMV MapButtons
+\fiYanfly\fr: YEP CoreEngine, MainMenuManager, RegionRestrictions, 
+MessageCore, X-ExtMesPack1
+\fiSilver\fr: SilvSkipTitle
+\fiMasked\fr: MBS SmoothScroll, MapZoom
+\fiFogomax\fr: TTKC EventBaloonAlert, TTK ChoicesCursor 
+\fiOrange\fr: Orange EventHitboxes, InstantTrigger
+\fiHimeWorks(http://himeworks.com)\fr: Hime ConditionalChoices, 
+HiddenChoiceConditions, LargeChoices, DisabledChoiceConditions
+
+
+\oc[6]\fbMUSIC\fr
+\fiMatt Sanderson\fr
+\fiPaul McMahon (Akumenn)\fr
+
+\oc[6]\fbFONT\fr
+\fiAlex G.\fr: Xeliard
+</block>
